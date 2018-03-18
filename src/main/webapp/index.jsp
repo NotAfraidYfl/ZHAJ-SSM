@@ -13,6 +13,6 @@
 </head>
 <body>
 	<button class="layui-btn layui-btn-warm">一个标准的按钮</button>
-	<a href="http://www.layui.com" class="layui-btn">一个可跳转的按钮</a>
+	<a href="http://www.layui.com" class="layui-btn">一个可跳转的钮</a>
 </body>
 </html>
